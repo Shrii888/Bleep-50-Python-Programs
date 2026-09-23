@@ -45,5 +45,6 @@ These exercises helped me practice Python fundamentals and strengthen my logical
 ### 👩‍💻 Author
 
 **Shrii888**
+Shriya Verma
 
-Data Analytics Learner | M.Com
+Data Analytics with Generative AI  Learner | August Batch
